@@ -1,0 +1,2 @@
+7323f85938ee88e58074dfe2d143a87d311276f1 Tue Mar 25 08:38:04 2025 -0700
+Copied from https://github.com/soar-telescope/goodman_lamps (BSD-3-Clause), commit above.

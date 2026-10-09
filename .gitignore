@@ -5,3 +5,8 @@ __pycache__
 .venv
 *log
 report
+CLAUDE.md
+.claude
+*html
+scripts
+data_cache
